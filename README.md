@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Akhil Vallala</h1>
+<h1 align="center">👋 Hi, I'm Akhil</h1>
 <p align="center">
   I am a passionate Data Scientist pursuing my Master’s in Data Science at Florida Atlantic University (GPA: 3.95/4.0). My work spans data analytics, machine learning, and AI, with a focus on educational technology and natural language processing. I have a strong background in building scalable data pipelines, fine-tuning large language models, and developing AI-driven solutions.
 </p>
